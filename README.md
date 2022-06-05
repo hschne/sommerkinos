@@ -3,6 +3,8 @@
 # Wiener Sommerkinos 2022
 
 <img alt="logo" src="header.jpg" width="800px" height="auto">
+  
+</div>
 
 Diese Repository enthält die Programme der [Sommerkinos Wien](https://www.stadt-wien.at/freizeit/kino/sommerkino.html). Derzeit inkludiert sind folgende Kinos: 
 - [Filmfestival am Rathausplatz](https://filmfestival-rathausplatz.at/)
