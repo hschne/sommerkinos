@@ -32,7 +32,7 @@ Die Rohdaten stehen weiters unter [Releases]() als CSV sowie ODT zur Verfügung.
 
 ## Wünsche, Fragen und Anmerkungen? 
 
-Wenn du Fehler findest oder Änderungsvorschläge hast bitte erstelle ein Issue 🙂
+Wenn du Fehler findest oder Änderungsvorschläge hast bitte [erstelle ein Issue](https://github.com/hschne/sommerkinos/issues/new) 🙂
 
 ## Lizenz
 
