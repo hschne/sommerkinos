@@ -1,4 +1,3 @@
-
 ---
 name: "\U0001F41E Issue"
 about: Erstelle ein Issue für Verbesserungen
