@@ -6,5 +6,7 @@ assignees: ''
 
 ---
 
-Fragen, Wünsche oder Anmerkungen? Bitte schreibe eine kurze Zusammenfassung deines Anliegens. Danke! 👍
+Fragen, Wünsche oder Anmerkungen? Bitte schreibe eine kurze Zusammenfassung deines Anliegens. 
+
+Danke! 👍
 
