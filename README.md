@@ -11,7 +11,7 @@ Diese Repository enthält die Programme der [Sommerkinos Wien](https://www.stadt
 
 Sämtliche Termine stehen als Google Calendar, iCal Link sowie Web Calendar zur Verfügung.
 
-Die Rohdaten stehen weiters unter [Releases]() als CSV sowie ODT zur Verfügung.
+Die Rohdaten stehen weiters unter [Releases](https://github.com/hschne/sommerkinos/releases) als CSV sowie ODT zur Verfügung.
 
 ### Filmfestival Rathausplatz
 
