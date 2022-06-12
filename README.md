@@ -5,6 +5,7 @@
 
 Diese Repository enthält die Programme der [Sommerkinos Wien](https://www.stadt-wien.at/freizeit/kino/sommerkino.html). Derzeit inkludiert sind folgende Kinos: 
 - [Filmfestival am Rathausplatz](https://filmfestival-rathausplatz.at/)
+- [Kaleidoskop](https://kaleidoskop.film/)
 - [Kino am Dach](https://kinoamdach.at/)
 - [Kino Wie Noch Nie](https://www.filmarchiv.at/program/festival/kino-wie-noch-nie-3/)
 - [Volxkino](https://www.volxkino.at/)
@@ -18,6 +19,12 @@ Die Rohdaten stehen weiters unter [Releases](https://github.com/hschne/sommerkin
 <a href="https://calendar.google.com/calendar/u/0?cid=czBvNHYzc2tqdWg3cTVvZTRhc3VnMWhmNDhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ"><img src="https://img.shields.io/static/v1?label=&message=Google+Calendar&color=%234285F4&style=for-the-badge&logo=google-calendar&logoColor=%23ffffff" alt="Google Calendar"></a>
 <a href="https://calendar.google.com/calendar/ical/s0o4v3skjuh7q5oe4asug1hf48%40group.calendar.google.com/public/basic.ics"><img src="https://img.shields.io/static/v1?label=&message=iCal&color=%2321bac9&style=for-the-badge&logo=add-this&logoColor=%23ffffff" alt="iCal"></a>
 <a href="https://calendar.google.com/calendar/embed?src=s0o4v3skjuh7q5oe4asug1hf48%40group.calendar.google.com&ctz=Europe%2FVienna"><img src="https://img.shields.io/static/v1?label=&message=Web+Calendar&color=%23d6b81f&style=for-the-badge" alt="Web Calendar"></a>
+
+### Kaleidoskop
+
+<a href="https://calendar.google.com/calendar/u/0?cid=NG1xbDNkNjBvcXRxazJkdXQ3aGUzYTEzZzRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ"><img src="https://img.shields.io/static/v1?label=&message=Google+Calendar&color=%234285F4&style=for-the-badge&logo=google-calendar&logoColor=%23ffffff" alt="Add to Google Calendar"></a>
+<a href="https://calendar.google.com/calendar/ical/4mql3d60oqtqk2dut7he3a13g4%40group.calendar.google.com/public/basic.ics"><img src="https://img.shields.io/static/v1?label=&message=iCal&color=%2321bac9&style=for-the-badge" alt="iCal"></a>
+<a href="https://calendar.google.com/calendar/embed?src=4mql3d60oqtqk2dut7he3a13g4%40group.calendar.google.com&ctz=Europe%2FVienna"><img src="https://img.shields.io/static/v1?label=&message=Web+Calendar&color=%23d6b81f&style=for-the-badge" alt="Web Calendar"></a>
 
 ### Kino am Dach
 
